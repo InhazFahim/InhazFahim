@@ -1,4 +1,4 @@
-[![MasterHead](https://th.bing.com/th/id/OIP.T64jCkFbCj-xLqCe1tUWFgHaCq?rs=1&pid=ImgDetMain)](https://inhazfahim.github.io/)
+[![MasterHead](https://ik.imagekit.io/dresma/Dresma_Library/senior-software-engineer_Wy82tYQym.gif)](https://inhazfahim.github.io/)
 <h1 align="center">Hi 👋, I'm Inhaz Fahim</h1>
 <h3 align="center">A passionate full-stack developer from Sri Lanka</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/-UygBh3nnfEAAAAC/coding.gif">
