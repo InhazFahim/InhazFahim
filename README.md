@@ -1,4 +1,4 @@
-[![MasterHead](https://ik.imagekit.io/dresma/Dresma_Library/senior-software-engineer_Wy82tYQym.gif)](https://inhazfahim.github.io/)
+[![MasterHead](https://www.digitalsolutionservices.com/img/services/web%20development.gif)](https://inhazfahim.github.io/)
 <h1 align="center">Hi 👋, I'm Inhaz Fahim</h1>
 <h3 align="center">A passionate full-stack developer from Sri Lanka</h3>
 <img align="right" alt="Coding" width="400" src="https://ayodele-olufemi.github.io/MyBioSite/images/coding.gif">
