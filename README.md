@@ -1,7 +1,7 @@
 [![MasterHead](https://www.digitalsolutionservices.com/img/services/web%20development.gif)](https://inhazfahim.github.io/)
 <h1 align="center">Hi 👋, I'm Inhaz Fahim</h1>
 <h3 align="center">A passionate full-stack developer from Sri Lanka</h3>
-<img align="right" alt="Coding" width="350" src="https://ayodele-olufemi.github.io/MyBioSite/images/coding.gif">
+<!-- <img align="right" alt="Coding" width="350" src="https://ayodele-olufemi.github.io/MyBioSite/images/coding.gif"> -->
 
 - 👨‍💻 All of my projects are available at - [🔗LINK](https://inhazfahim.github.io/)
 
